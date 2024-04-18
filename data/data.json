@@ -1,0 +1,102 @@
+
+
+[
+  	{
+	  	"name":"milk_crate_black.png",
+
+	  	"attributes": {
+
+	  		"orgiginal_width": 424,
+	    	"original_height": 373,
+
+	    	"natural_width": 167,
+	    	"natural_height": 147,
+
+	    	"baselineSizePercentOriginal": 39.38
+	  	}
+  	},
+
+  	{
+	  	"name":"car_bumper.png",
+
+	  	"attributes": {
+
+	  		"orgiginal_width": 617,
+	    	"original_height": 257,
+
+	    	"natural_width": 283,
+	    	"natural_height": 118,
+
+	    	"baselineSizePercentOriginal": 45.87
+	  	},
+    },
+
+  	{
+	  	"name":"car_mufler.png",
+
+	  	"attributes": {
+
+	  		"orgiginal_width": 309,
+	    	"original_height": 212,
+
+	    	"natural_width": 69,
+	    	"natural_height": 47,
+
+	    	"baselineSizePercentOriginal": 22.33
+	  	}
+  	},
+
+  	{
+	  	"name":"wood_pallet.png",
+
+	  	"attributes": {
+
+	  		"orgiginal_width": 557,
+	    	"original_height": 283,
+
+	    	"natural_width": 334,
+	    	"natural_height": 170,
+
+	    	"baselineSizePercentOriginal": 59.96
+	  	}
+  	},
+
+  	{
+	  	"name":"black_steel_pipe.png",
+
+	  	"attributes": {
+
+	  		"orgiginal_width": 500,
+	    	"original_height": 30,
+
+	    	"natural_width": 316,
+	    	"natural_height": 19,
+
+	    	"baselineSizePercentOriginal": 27.72
+	  	}
+  	},
+
+  	{
+	  	"name":"galvanized_steel_pipe.png",
+
+	  	"attributes": {
+
+	  		"orgiginal_width": 123,
+	    	"original_height": 283,
+
+	    	"natural_width": 122,
+	    	"natural_height": 116,
+
+	    	"baselineSizePercentOriginal": 12.63
+	  	}
+  	},
+]
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,32 @@
+# Insert object in road region.
+
+# Single obj in img in random place
+func insertObjectRandom(initObj,dst):
+
+    point = rndPoint
+    finObj = trsmObj(obj, randLoc, dst)
+    if 
+    checkResidesInside(finObj,point, dst)
+
+    finalRes = addObjectImg(finObj, point, dst)
+
+    return finalRes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
